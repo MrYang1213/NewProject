@@ -1,0 +1,1617 @@
+﻿Log file open, 04/05/24 15:33:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: city
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.454043
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VaRest
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatasmithRuntime
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i9-11900H @ 2.50GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Software/UE/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogLinker: AddRedirectList(E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/VaRest.ini) has substring redirect /VaRestPlugin/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Engine.ini]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Engine.ini]
+[2024.04.05-07.33.31:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Engine.ini]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Engine.ini]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.04.05-07.33.31:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Engine.ini]
+[2024.04.05-07.33.31:499][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Engine.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.04.05-07.33.31:509][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.04.05-07.33.31:510][  0]LogInit: Selected Device Profile: [Windows]
+[2024.04.05-07.33.31:510][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.04.05-07.33.31:510][  0]LogHAL: Display: Platform has ~ 16 GB [16891695104 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.04.05-07.33.31:510][  0]LogInit: Going up to parent DeviceProfile []
+[2024.04.05-07.33.31:510][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.04.05-07.33.31:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Scalability.ini]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.04.05-07.33.31:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Engine.ini]
+[2024.04.05-07.33.31:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Project/UEProject/Test/NewProject/city/Saved/Config/Windows/Editor.ini]
+[2024.04.05-07.33.31:512][  0]LogInit: Computer: WIN-0IC8OVMB61U
+[2024.04.05-07.33.31:512][  0]LogInit: User: Administrator
+[2024.04.05-07.33.31:512][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.04.05-07.33.31:512][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.04.05-07.33.31:512][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.04.05-07.33.31:512][  0]LogMemory: Platform Memory Stats for Windows
+[2024.04.05-07.33.31:512][  0]LogMemory: Process Physical Memory: 146.86 MB used, 146.86 MB peak
+[2024.04.05-07.33.31:512][  0]LogMemory: Process Virtual Memory: 129.31 MB used, 129.31 MB peak
+[2024.04.05-07.33.31:512][  0]LogMemory: Physical Memory: 10540.28 MB used,  5568.89 MB free, 16109.18 MB total
+[2024.04.05-07.33.31:512][  0]LogMemory: Virtual Memory: 134206952.00 MB used,  10775.44 MB free, 134217728.00 MB total
+[2024.04.05-07.33.31:518][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.04.05-07.33.31:587][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.04.05-07.33.31:588][  0]LogInit: Using OS detected language (zh-CN).
+[2024.04.05-07.33.31:588][  0]LogInit: Using OS detected locale (zh-CN).
+[2024.04.05-07.33.31:594][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2024.04.05-07.33.31:726][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2024.04.05-07.33.31:766][  0]LogInit: Setting process to per monitor DPI aware
+[2024.04.05-07.33.31:803][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.04.05-07.33.31:820][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.04.05-07.33.31:820][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.04.05-07.33.31:976][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.04.05-07.33.32:010][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.04.05-07.33.32:011][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.04.05-07.33.32:011][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.04.05-07.33.32:011][  0]LogD3D11RHI: D3D11 adapters:
+[2024.04.05-07.33.32:123][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2024.04.05-07.33.32:123][  0]LogD3D11RHI:       6010/0/8054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.04.05-07.33.32:166][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.04.05-07.33.32:166][  0]LogD3D11RHI:       128/0/8054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.04.05-07.33.32:169][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.04.05-07.33.32:169][  0]LogD3D11RHI:       0/0/8054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:    3. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:       128/0/8054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     DeviceId    : 2520
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     SubSysId    : 1341152d
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     DedicatedVideoMemory : 6301941760 bytes
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     SharedSystemMemory : 8445847552 bytes
+[2024.04.05-07.33.32:194][  0]LogD3D11RHI:     AdapterLuid : 0 53212
+[2024.04.05-07.33.32:200][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.04.05-07.33.32:200][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2024.04.05-07.33.32:200][  0]LogWindows: EnumDisplayDevices:
+[2024.04.05-07.33.32:200][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2024.04.05-07.33.32:201][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.04.05-07.33.32:201][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.04.05-07.33.32:201][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.04.05-07.33.32:201][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2024.04.05-07.33.32:201][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2024.04.05-07.33.32:202][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2024.04.05-07.33.32:202][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2024.04.05-07.33.32:202][  0]LogWindows:    8. 'OrayIddDriver Device' (P:0 D:0)
+[2024.04.05-07.33.32:203][  0]LogWindows:    9. 'OrayIddDriver Device' (P:0 D:0)
+[2024.04.05-07.33.32:203][  0]LogWindows:    10. 'OrayIddDriver Device' (P:0 D:0)
+[2024.04.05-07.33.32:203][  0]LogWindows:    11. 'OrayIddDriver Device' (P:0 D:0)
+[2024.04.05-07.33.32:203][  0]LogWindows:    12. 'OrayIddDriver Device' (P:0 D:0)
+[2024.04.05-07.33.32:203][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:   Driver Version: 546.01 (internal:31.0.15.4601, unified:546.01)
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:      Driver Date: 10-26-2023
+[2024.04.05-07.33.32:203][  0]LogRHI: Texture pool is 4207 MB (70% of 6010 MB)
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     DeviceId    : 2520
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     SubSysId    : 1341152d
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     DedicatedVideoMemory : 6301941760 bytes
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.04.05-07.33.32:203][  0]LogD3D11RHI:     SharedSystemMemory : 8445847552 bytes
+[2024.04.05-07.33.32:204][  0]LogD3D11RHI:     AdapterLuid : 0 53212
+[2024.04.05-07.33.32:279][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.04.05-07.33.32:279][  0]LogD3D11RHI: Async texture creation enabled
+[2024.04.05-07.33.32:279][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.04.05-07.33.32:308][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.04.05-07.33.32:337][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.04.05-07.33.32:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.04.05-07.33.32:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.04.05-07.33.32:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.04.05-07.33.32:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.04.05-07.33.32:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.04.05-07.33.32:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.04.05-07.33.32:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.04.05-07.33.32:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.04.05-07.33.32:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.04.05-07.33.32:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.04.05-07.33.32:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.04.05-07.33.32:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.04.05-07.33.32:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.04.05-07.33.32:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.04.05-07.33.32:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.04.05-07.33.32:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.04.05-07.33.32:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.04.05-07.33.32:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.04.05-07.33.32:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.04.05-07.33.32:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.04.05-07.33.32:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.04.05-07.33.32:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.04.05-07.33.32:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.04.05-07.33.32:980][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.04.05-07.33.32:988][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.04.05-07.33.33:023][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.04.05-07.33.33:078][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.04.05-07.33.33:079][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../../Project/UEProject/Test/NewProject/city/Intermediate/Shaders/WorkingDirectory/31572/).
+[2024.04.05-07.33.33:079][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/804FF1764B68710BAF9A8C8DCDA1F0F5/'.
+[2024.04.05-07.33.33:079][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.04.05-07.33.33:079][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.04.05-07.33.33:079][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.04.05-07.33.33:706][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.04.05-07.33.33:706][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2024.04.05-07.33.33:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Project/UEProject/Test/NewProject/city/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.04.05-07.33.33:706][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.04.05-07.33.33:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Project/UEProject/Test/NewProject/city/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.05-07.33.33:706][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.04.05-07.33.33:720][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.04.05-07.33.33:720][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.05-07.33.33:720][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.04.05-07.33.33:729][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.04.05-07.33.33:729][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=387.10MBs, RandomWriteSpeed=167.33MBs. Assigned SpeedClass 'Local'
+[2024.04.05-07.33.33:730][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.04.05-07.33.33:730][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.04.05-07.33.33:730][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.04.05-07.33.33:767][  0]LogSlate: Using FreeType 2.10.0
+[2024.04.05-07.33.33:768][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.04.05-07.33.33:792][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2024.04.05-07.33.34:001][  0]LogInit: Selected Device Profile: [Windows]
+[2024.04.05-07.33.34:001][  0]LogInit: Active device profile: [0000016DF0DB7D00][0000016DEF7D6240 49] Windows
+[2024.04.05-07.33.34:001][  0]LogInit: Profiles: [0000016DF0DB7D00][0000016DEF7D6240 49] Windows, [0000016DF0D6C500][0000016DEF7DA380 49] WindowsNoEditor, [0000016DF0DB4500][0000016DEF7DE4C0 49] WindowsServer, [0000016DF0D6D600][0000016DEF7E6640 49] WindowsClient, [0000016DF0DB5600][0000016DEF7EA7C0 49] IOS, [0000016DF0D6E400][0000016DF0A52940 49] iPadAir, [0000016DF0DB6300][0000016DF0A56AC0 49] iPadAir2, [0000016DF0CC3E00][0000016DF0A5ED80 49] IPadPro, [0000016DF0CC3F00][0000016DF0A5ADC0 49] iPadAir3, [0000016DF0DB7A00][0000016DF0A62F40 49] iPadAir4, [0000016DF0CC0A00][0000016DF0A670C0 49] iPadMini2, [0000016DF0DB4600][0000016DF0A6B240 49] iPadMini3, [0000016DF0CC2D00][0000016DF0A6F3C0 49] iPadMini4, [0000016DF0DB6E00][0000016DF0A73540 49] iPadMini5, [0000016DF0D0F700][0000016DF0A7B800 49] iPhone6, [0000016DF0D0F800][0000016DF0A77840 49] iPodTouch6, [0000016DF0CC2100][0000016DF0A83B00 49] iPhone7, [0000016DF0CC2200][0000016DF0A7FB40 49] iPodTouch7, [0000016DF0D0C900][0000016DF0A86140 49] iPhone5S, [0000016DF0CC2500][0000016DF0A8A2C0 49] iPhone6Plus, [0000016DF0D0EE00][0000016DEF7E2400 49] iPhone6S, [0000016DF0CC1C00][0000016DF0A8E540 49] iPhone6SPlus, [0000016DF0D0D300][0000016DF0A92680 49] iPhone7Plus, [0000016DF0CC2800][0000016DF0A967C0 49] iPhoneSE, [0000016DF0D0CA00][0000016DF0A9E940 49] iPhone8, [0000016DF0CC1700][0000016DF0B04AC0 49] iPhone8Plus, [0000016DF0D0EC00][0000016DF0B08C40 49] iPhoneX, [0000016DF0CC2B00][0000016DF0B0CDC0 49] iPhoneXS, [0000016DF0D0F400][0000016DF0B10F40 49] iPhoneXSMax, [0000016DF0CC1900][0000016DF0B150C0 49] iPhoneXR, [0000016DF0D0D600][0000016DF0B19240 49] iPhone11, [0000016DF0CC0700][0000016DF0B1D3C0 49] iPhone11Pro, [0000016DF0D0E100][0000016DF0B21540 49] iPhone11ProMax, [0000016DF0CC0C00][0000016DF0B256C0 49] iPhoneSE2, [0000016DF0D0E500][0000016DF0B29840 49] iPhone12Mini, [0000016DF0CC2900][0000016DF0B2D9C0 49] iPhone12, [0000016DF0D0D000][0000016DF0B31B40 49] iPhone12Pro, [0000016DF0CC2600][0000016DF0B34140 49] iPhone12ProMax, [0000016DF0D0C500][0000016DF0B382C0 49] iPadPro105, [0000016DF0CC0200][0000016DF0B3C440 49] iPadPro129, [0000016DF0D0E400][0000016DF0A9A580 49] iPadPro97, [0000016DF0CC0500][0000016DF0B406C0 49] iPadPro2_129, [0000016DF0D0D200][0000016DF0B44800 49] iPad5, [0000016DF0CC3A00][0000016DF0B48940 49] iPad6, [0000016DF0D0F500][0000016DF0B50AC0 49] iPad7, [0000016DF0CC1200][0000016DF0B54C40 49] iPad8, [0000016DF0D0F600][0000016DF0B58DC0 49] iPadPro11, [0000016DF0CC3800][0000016DF0B5CF40 49] iPadPro2_11, [0000016DF0D0E600][0000016DF0B610C0 49] iPadPro3_129, [0000016DF0CC0400][0000016DF0B65240 49] iPadPro4_129, [0000016DF0D0FF00][0000016DF0B693C0 49] AppleTV, [0000016DF0CC2400][0000016DF0B6D540 49] AppleTV4K, [0000016DF0D0DD00][0000016DF0B716C0 49] TVOS, [0000016DF0CC0F00][0000016DF0B75840 49] Mac, [0000016DF0D0EB00][0000016DF0B799C0 49] MacClient, [0000016DF0CC3400][0000016DF0B7DB40 49] MacNoEditor, [0000016DF0D0F300][0000016DF0B80140 49] MacServer, [0000016DF0CC0E00][0000016DF0B842C0 49] Linux, [0000016DF0D0C700][0000016DF0B88440 49] LinuxAArch64, [0000016DF0CC3000][0000016DF0B8C5C0 49] LinuxNoEditor, [0000016DF0D0D100][0000016DF0B90740 49] LinuxAArch64NoEditor, [0000016DF0CC2300][0000016DF0B4C880 49] LinuxClient, [0000016DF0D0DE00][0000016DF0B949C0 49] LinuxAArch64Client, [0000016DF0D6C600][0000016DF0B98B00 49] LinuxServer, [0000016DF0E55900][0000016DF0BA0C80 49] LinuxAArch64Server, [0000016DF0D6D800][0000016DF0BE0E00 49] Android, [0000016DF0E54800][0000016DF0BE8F80 49] Android_Low, [0000016DF0D6D900][0000016DF0BF1100 49] Android_Mid, [0000016DF0E55E00][0000016DF0BF5280 49] Android_High, [0000016DF0D6FD00][0000016DF0BF9400 49] Android_Default, [0000016DF0E56F00][0000016DF0BFD580 49] Android_Adreno4xx, [0000016DF0D6E700][0000016DE4155700 49] Android_Adreno5xx_Low, [0000016DF0E57300][0000016DE4171880 49] Android_Adreno5xx, [0000016DF0D6F300][0000016DE4175A00 49] Android_Adreno6xx, [0000016DF0E56E00][0000016DE4179B80 49] Android_Adreno6xx_Vulkan, [0000016DF0D6FA00][0000016DE417C180 49] Android_Mali_T6xx, [0000016DF0E54600][0000016DF1ED6300 49] Android_Mali_T7xx, [0000016DF0D6CD00][0000016DF1EDA480 49] Android_Mali_T8xx, [0000016DF0E54700][0000016DF1F9E600 49] Android_Mali_G71, [0000016DF0D6CE00][0000016DF1FA2780 49] Android_Mali_G72, [0000016DF0E56A00][0000016DE2182900 49] Android_Mali_G72_Vulkan, [0000016DF0D6D300][0000016DF0B9CA40 49] Android_Mali_G76, [0000016DF0E55400][0000016DE2186B80 49] Android_Mali_G76_Vulkan, [0000016DF0D6FC00][0000016DEF5A0CC0 49] Android_Mali_G77, [0000016DF0E54900][0000016DE218EE40 49] Android_Mali_G77_Vulkan, [0000016DF0D0D500][0000016DE2192FC0 49] Android_Mali_G78, [0000016DF0E54C00][0000016DE2197140 49] Android_Mali_G78_Vulkan, [0000016DF0D0F200][0000016DE219B2C0 49] Android_Mali_G710, [0000016DF0E56700][0000016DF23C5440 49] Android_Mali_G710_Vulkan, [0000016DF0D0D800][0000016DF23C95C0 49] Android_Vulkan_SM5, [0000016DF0E56B00][0000016DF23CD740 49] Android_PowerVR_G6xxx, [0000016DF0D0C100][0000016DF23D18C0 49] Android_PowerVR_GT7xxx, [0000016DF0E55B00][0000016DF23D5A40 49] Android_PowerVR_GE8xxx, [0000016DF0D0FA00][0000016DF23D9BC0 49] Android_PowerVR_GM9xxx, [0000016DF0E55D00][0000016DF23DC1C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000016DF0D0F100][0000016DF23E0340 49] Android_TegraK1, [0000016DF0E56900][0000016DF23E44C0 49] Android_Unknown_Vulkan, [0000016DF0D0CC00][0000016DF0BEC640 49] Lumin, [0000016DF0E54E00][0000016DF23E87C0 49] Lumin_Desktop, [0000016DF0D0E200][0000016DF23F8940 49] HoloLens, 
+[2024.04.05-07.33.34:144][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.04.05-07.33.34:144][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.04.05-07.33.34:144][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.04.05-07.33.34:144][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.04.05-07.33.34:145][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.04.05-07.33.34:177][  0]LogNetVersion: city 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 806950221)
+[2024.04.05-07.33.34:578][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.04.05-07.33.34:684][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.04.05-07.33.34:690][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.04.05-07.33.34:690][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.04.05-07.33.34:690][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.04.05-07.33.34:894][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1E6E331E44A0B233151EF6818F49635D | Instance: 1F8BFED44A4068C420B432B3D12DAE3F (WIN-0IC8OVMB61U-31572).
+[2024.04.05-07.33.34:953][  0]LogVaRest: FVaRestModule::StartupModule(28): VaRest (1.1.33) module started
+[2024.04.05-07.33.35:060][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.04.05-07.33.35:066][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.04.05-07.33.35:206][  0]LogPython: Using Python 3.7.7
+[2024.04.05-07.33.35:751][  0]SourceControl: 源码管理已禁用
+[2024.04.05-07.33.35:751][  0]SourceControl: 源码管理已禁用
+[2024.04.05-07.33.35:772][  0]SourceControl: 源码管理已禁用
+[2024.04.05-07.33.35:776][  0]SourceControl: 源码管理已禁用
+[2024.04.05-07.33.35:789][  0]SourceControl: 源码管理已禁用
+[2024.04.05-07.33.35:798][  0]LogUProjectInfo: Found projects:
+[2024.04.05-07.33.35:976][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.04.05-07.33.36:855][  0]LogOpenImageDenoise: OIDN starting up
+[2024.04.05-07.33.36:891][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.04.05-07.33.36:902][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.05-07.33.36:902][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.05-07.33.37:067][  0]LogCollectionManager: Loaded 0 collections in 0.000543 seconds
+[2024.04.05-07.33.37:094][  0]LogFileCache: Scanning file cache for directory 'E:/Project/UEProject/Test/NewProject/city/Saved/Collections/' took 0.00s
+[2024.04.05-07.33.37:094][  0]LogFileCache: Scanning file cache for directory 'E:/Project/UEProject/Test/NewProject/city/Content/Developers/Administrator/Collections/' took 0.00s
+[2024.04.05-07.33.37:094][  0]LogFileCache: Scanning file cache for directory 'E:/Project/UEProject/Test/NewProject/city/Content/Collections/' took 0.00s
+[2024.04.05-07.33.37:094][  0]LogOcInput: OculusInput pre-init called
+[2024.04.05-07.33.37:286][  0]LogDatasmithRuntime: Adding /DatasmithRuntime/Materials to the list of directories to always package otherwise we cannot create dynamic material instances at runtime
+[2024.04.05-07.33.37:360][  0]LogClass: Display: EnumProperty FVaRest_NamedType::Type is not initialized properly. Module:VaRestEditor File:Public/VaRest_BreakJson.h
+[2024.04.05-07.33.37:360][  0]LogClass: Display: BoolProperty FVaRest_NamedType::bIsArray is not initialized properly. Module:VaRestEditor File:Public/VaRest_BreakJson.h
+[2024.04.05-07.33.37:361][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2024.04.05-07.33.37:363][  0]LogEngine: Initializing Engine...
+[2024.04.05-07.33.37:364][  0]LogVaRest: UVaRestSubsystem::Initialize(24): VaRest subsystem initialized
+[2024.04.05-07.33.37:368][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.04.05-07.33.37:369][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.04.05-07.33.37:369][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.04.05-07.33.37:370][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.04.05-07.33.37:600][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.04.05-07.33.37:617][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.04.05-07.33.37:619][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.04.05-07.33.37:622][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.04.05-07.33.37:623][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.04.05-07.33.37:623][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.04.05-07.33.37:624][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.04.05-07.33.37:624][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-07.33.37:624][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-07.33.37:624][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-07.33.37:624][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-07.33.37:624][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.05-07.33.37:624][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-07.33.37:624][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.05-07.33.37:624][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-07.33.37:624][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-07.33.37:624][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-07.33.37:624][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-07.33.37:624][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.05-07.33.37:636][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.05-07.33.37:636][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.04.05-07.33.37:792][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2024.04.05-07.33.37:793][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-07.33.37:795][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-07.33.37:795][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-07.33.37:796][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.05-07.33.37:796][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.05-07.33.37:796][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.05-07.33.37:797][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.05-07.33.37:797][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.05-07.33.37:797][  0]LogInit: FAudioDevice initialized.
+[2024.04.05-07.33.37:797][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.04.05-07.33.37:797][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.04.05-07.33.37:903][  0]LogDerivedDataCache: Saved boot cache 0.11s 111MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.04.05-07.33.37:904][  0]LogInit: Texture streaming: Enabled
+[2024.04.05-07.33.37:918][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.04.05-07.33.37:923][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.04.05-07.33.37:923][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={0D0FD812-4709-05E3-B4B0-E4893BB293E8}
+[2024.04.05-07.33.37:923][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.04.05-07.33.37:926][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.04.05-07.33.37:952][  0]LogInit: Transaction tracking system initialized
+[2024.04.05-07.33.37:979][  0]BlueprintLog: New page: 编辑器加载
+[2024.04.05-07.33.38:060][  0]LocalizationService: 本地化服务已禁用
+[2024.04.05-07.33.38:094][  0]TimingProfiler: Initialize
+[2024.04.05-07.33.38:094][  0]TimingProfiler: OnSessionChanged
+[2024.04.05-07.33.38:094][  0]LoadingProfiler: Initialize
+[2024.04.05-07.33.38:095][  0]LoadingProfiler: OnSessionChanged
+[2024.04.05-07.33.38:095][  0]NetworkingProfiler: Initialize
+[2024.04.05-07.33.38:095][  0]NetworkingProfiler: OnSessionChanged
+[2024.04.05-07.33.38:095][  0]MemoryProfiler: Initialize
+[2024.04.05-07.33.38:095][  0]MemoryProfiler: OnSessionChanged
+[2024.04.05-07.33.38:238][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.04.05-07.33.38:238][  0]LogCook: Display: Mobile HDR setting 1
+[2024.04.05-07.33.38:546][  0]LogFileCache: Scanning file cache for directory 'E:/Project/UEProject/Test/NewProject/city/Content/' took 0.01s
+[2024.04.05-07.33.38:692][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.05-07.33.38:696][  0]SourceControl: 源码管理已禁用
+[2024.04.05-07.33.38:696][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.524
+[2024.04.05-07.33.38:697][  0]Cmd: MAP LOAD FILE="../../../../../../Project/UEProject/Test/NewProject/city/Content/ThirdPersonBP/Maps/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.05-07.33.38:697][  0]LightingResults: New page: 光照构建
+[2024.04.05-07.33.38:700][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-07.33.38:700][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-07.33.38:701][  0]MapCheck: New page: 地图检测
+[2024.04.05-07.33.38:701][  0]LightingResults: New page: 光照构建
+[2024.04.05-07.33.38:709][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-07.33.38:713][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.05-07.33.46:996][  0]LogStaticMesh: 正在构建静态网格体Road_Bed_6_m……
+[2024.04.05-07.33.50:122][  0]LogTexture: Display: 正在编译纹理：weixing-2_2（OODLE_AutoDXT、16384X8192）
+[2024.04.05-07.33.50:847][  0]LogStaticMesh: Built static mesh [3.85s] /Game/chengshi/daolu-Malu-UE/Geometries/Road_Bed_6_m.Road_Bed_6_m
+[2024.04.05-07.33.50:908][  0]LogStaticMesh: 正在构建静态网格体Road_Bed_Freeway_1_m……
+[2024.04.05-07.33.54:658][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.05-07.33.54:658][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.05-07.33.54:658][  0]LogTextureFormatOodle: Display: non-RDO encode 16384 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.05-07.33.54:658][  0]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.05-07.33.54:658][  0]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.05-07.33.56:627][  0]LogStaticMesh: Built static mesh [5.72s] /Game/chengshi/daolu-Malu-UE/Geometries/Road_Bed_Freeway_1_m.Road_Bed_Freeway_1_m
+[2024.04.05-07.33.56:687][  0]LogStaticMesh: 正在构建静态网格体Road_Bed_Freeway_2_m……
+[2024.04.05-07.34.02:517][  0]LogStaticMesh: Built static mesh [5.83s] /Game/chengshi/daolu-Malu-UE/Geometries/Road_Bed_Freeway_2_m.Road_Bed_Freeway_2_m
+[2024.04.05-07.34.02:564][  0]LogStaticMesh: 正在构建静态网格体Road_Bed_Sidewalk_2_m……
+[2024.04.05-07.34.08:087][  0]LogStaticMesh: Built static mesh [5.52s] /Game/chengshi/daolu-Malu-UE/Geometries/Road_Bed_Sidewalk_2_m.Road_Bed_Sidewalk_2_m
+[2024.04.05-07.34.08:139][  0]LogStaticMesh: 正在构建静态网格体Road_Bed_Sidewalk_4_m……
+[2024.04.05-07.34.10:689][  0]LogStaticMesh: Built static mesh [2.55s] /Game/chengshi/daolu-Malu-UE/Geometries/Road_Bed_Sidewalk_4_m.Road_Bed_Sidewalk_4_m
+[2024.04.05-07.34.10:728][  0]LogStaticMesh: 正在构建静态网格体Road_Bed_white_m……
+[2024.04.05-07.34.23:292][  0]LogStaticMesh: Built static mesh [12.56s] /Game/chengshi/daolu-Malu-UE/Geometries/Road_Bed_white_m.Road_Bed_white_m
+[2024.04.05-07.34.24:223][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.04.05-07.34.24:227][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.04.05-07.34.24:529][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2024.04.05-07.34.24:596][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2024.04.05-07.34.24:606][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.05-07.34.24:607][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时1.196毫秒。
+[2024.04.05-07.34.24:607][  0]LogFileHelpers: Loading map 'Untitled' took 45.911
+[2024.04.05-07.34.24:634][  0]LogUnrealEdMisc: Total Editor Startup Time, took 54.462
+[2024.04.05-07.34.24:749][  0]LogSlate: The tab "Cesium" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2024.04.05-07.34.24:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-07.34.24:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-07.34.24:789][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-07.34.24:796][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-07.34.24:820][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 4057 classes and 1015 folders.
+[2024.04.05-07.34.24:826][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.04.05-07.34.24:830][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.04.05-07.34.24:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.04.05-07.34.24:830][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:830][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.04.05-07.34.24:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000589
+[2024.04.05-07.34.24:832][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.04.05-07.34.24:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.04.05-07.34.24:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.04.05-07.34.24:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.04.05-07.34.24:833][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.04.05-07.34.24:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.04.05-07.34.24:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.04.05-07.34.24:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.04.05-07.34.24:834][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.05-07.34.24:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.04.05-07.34.24:834][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:834][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.04.05-07.34.24:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:835][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.04.05-07.34.24:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.04.05-07.34.24:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.04.05-07.34.24:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:835][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.04.05-07.34.24:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.04.05-07.34.24:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.04.05-07.34.24:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.04.05-07.34.24:836][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.04.05-07.34.24:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.04.05-07.34.24:836][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:836][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.04.05-07.34.24:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:837][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.04.05-07.34.24:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.04.05-07.34.24:837][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:837][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.04.05-07.34.24:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:837][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.04.05-07.34.24:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.04.05-07.34.24:837][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:837][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.04.05-07.34.24:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:838][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.04.05-07.34.24:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.04.05-07.34.24:838][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:838][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.04.05-07.34.24:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.04.05-07.34.24:839][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.04.05-07.34.24:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.04.05-07.34.24:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.04.05-07.34.24:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.04.05-07.34.24:840][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.04.05-07.34.24:840][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:840][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.04.05-07.34.24:840][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:840][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.04.05-07.34.24:840][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.04.05-07.34.24:841][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.05-07.34.24:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.04.05-07.34.24:841][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:841][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.04.05-07.34.24:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.04.05-07.34.24:842][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.04.05-07.34.24:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.04.05-07.34.24:842][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:842][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.04.05-07.34.24:842][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.04.05-07.34.24:842][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.04.05-07.34.24:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.04.05-07.34.24:842][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:842][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.04.05-07.34.24:842][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:843][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.04.05-07.34.24:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.04.05-07.34.24:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.04.05-07.34.24:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.04.05-07.34.24:843][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.04.05-07.34.24:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.04.05-07.34.24:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.04.05-07.34.24:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.04.05-07.34.24:844][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.04.05-07.34.24:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.04.05-07.34.24:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.04.05-07.34.24:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.04.05-07.34.24:845][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.05-07.34.24:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.04.05-07.34.24:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.04.05-07.34.24:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:845][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.05-07.34.24:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.04.05-07.34.24:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:845][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.04.05-07.34.24:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.04.05-07.34.24:846][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.04.05-07.34.24:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.04.05-07.34.24:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.04.05-07.34.24:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.04.05-07.34.24:846][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.04.05-07.34.24:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.04.05-07.34.24:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.04.05-07.34.24:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:847][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.04.05-07.34.24:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.04.05-07.34.24:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.04.05-07.34.24:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.04.05-07.34.24:848][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.04.05-07.34.24:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.04.05-07.34.24:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.04.05-07.34.24:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.04.05-07.34.24:848][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.04.05-07.34.24:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.04.05-07.34.24:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.04.05-07.34.24:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.04.05-07.34.24:849][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.04.05-07.34.24:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.04.05-07.34.24:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.04.05-07.34.24:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Software/UE/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.04.05-07.34.24:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Software/UE/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.04.05-07.34.24:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.04.05-07.34.24:924][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.04.05-07.34.24:925][  0]LogSlate: The tab "CesiumIon" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2024.04.05-07.34.24:932][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2024.04.05-07.34.24:963][  0]LogSlate: The tab "/SuperMap/BluePrints/CN/SuperMap.SuperMap_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2024.04.05-07.34.25:006][  0]LogSlate: Took 0.000861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.05-07.34.25:008][  0]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.05-07.34.25:011][  0]LogSlate: Took 0.002318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.05-07.34.25:012][  0]LogSlate: Took 0.000523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.05-07.34.25:155][  0]LogRenderer: Reallocating scene render targets to support 1072x560 Format 10 NumSamples 1 (Frame:1).
+[2024.04.05-07.34.25:318][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.04.05-07.34.25:318][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2024.04.05-07.34.25:318][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2024.04.05-07.34.25:318][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.04.05-07.34.25:318][  0]LogLoad: (Engine Initialization) Total time: 55.15 seconds
+[2024.04.05-07.34.25:318][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.05-07.34.25:435][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.05-07.34.25:629][  3]LogAssetRegistry: Asset discovery search completed in 51.8380 seconds
+[2024.04.05-07.34.25:636][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2024.04.05-07.39.34:892][487]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2024.04.05-07.39.34:892][487]LogWindows: File 'libalias_api.dll' does not exist
+[2024.04.05-07.39.34:893][487]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2024.04.05-07.39.34:893][487]LogWindows: File 'libalias_api.dll' does not exist
+[2024.04.05-07.40.05:977][487]LogSlate: Window '选择Datasmith内容的导入位置' being destroyed
+[2024.04.05-07.40.06:013][487]LogFactory: FactoryCreateFile: DatasmithScene with DatasmithImportFactory (0 0 ../../../../../../MapDatas/yuanqu/yuanqu.c4d)
+[2024.04.05-07.40.06:014][487]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2024.04.05-07.40.06:014][487]LogWindows: File 'libalias_api.dll' does not exist
+[2024.04.05-07.40.06:015][487]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2024.04.05-07.40.06:015][487]LogWindows: File 'libalias_api.dll' does not exist
+[2024.04.05-07.40.07:966][487]LogSlate: Window 'Datasmith导入选项' being destroyed
+[2024.04.05-07.40.07:980][487]LogWindows: Failed to load 'C:/Program Files/Maxon Cinema 4D R24/cineware.dll' (GetLastError=126)
+[2024.04.05-07.40.07:980][487]LogWindows: File 'C:/Program Files/Maxon Cinema 4D R24/cineware.dll' does not exist
+[2024.04.05-07.40.07:980][487]LogDatasmithC4DImport: Warning: Improved Cineware Import available: maxon.net/unreal
+[2024.04.05-07.40.08:104][487]LogDatasmithC4DImport: Melange SDK successfully read the file '../../../../../../MapDatas/yuanqu/yuanqu.c4d' (read 16240199 out of 16240199 bytes, version 25115)
+[2024.04.05-07.40.08:105][487]LogDatasmithC4DImport: Warning: 文件“../../../../../../MapDatas/yuanqu/yuanqu.c4d”未针对Melange进行保存。
+[2024.04.05-07.40.08:156][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_1"
+[2024.04.05-07.40.08:156][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_2"
+[2024.04.05-07.40.08:156][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_4"
+[2024.04.05-07.40.08:156][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_5"
+[2024.04.05-07.40.08:157][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_7"
+[2024.04.05-07.40.08:157][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_8"
+[2024.04.05-07.40.08:158][487]LogDatasmithC4DImport: Error: Could not import the object "X._m"
+[2024.04.05-07.40.08:158][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_10"
+[2024.04.05-07.40.08:158][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_11"
+[2024.04.05-07.40.08:158][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_13"
+[2024.04.05-07.40.08:158][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_14"
+[2024.04.05-07.40.08:159][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_1"
+[2024.04.05-07.40.08:159][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_16"
+[2024.04.05-07.40.08:159][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_17"
+[2024.04.05-07.40.08:159][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_19"
+[2024.04.05-07.40.08:159][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_20"
+[2024.04.05-07.40.08:162][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_2"
+[2024.04.05-07.40.08:162][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_22"
+[2024.04.05-07.40.08:162][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_23"
+[2024.04.05-07.40.08:163][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_3"
+[2024.04.05-07.40.08:163][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_25"
+[2024.04.05-07.40.08:163][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_26"
+[2024.04.05-07.40.08:164][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_28"
+[2024.04.05-07.40.08:164][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_29"
+[2024.04.05-07.40.08:165][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_31"
+[2024.04.05-07.40.08:165][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_32"
+[2024.04.05-07.40.08:167][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_4"
+[2024.04.05-07.40.08:167][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_34"
+[2024.04.05-07.40.08:167][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_35"
+[2024.04.05-07.40.08:168][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_5"
+[2024.04.05-07.40.08:170][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_37"
+[2024.04.05-07.40.08:170][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_38"
+[2024.04.05-07.40.08:171][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_40"
+[2024.04.05-07.40.08:171][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_41"
+[2024.04.05-07.40.08:173][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_6"
+[2024.04.05-07.40.08:173][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_43"
+[2024.04.05-07.40.08:173][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_44"
+[2024.04.05-07.40.08:174][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_7"
+[2024.04.05-07.40.08:174][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_46"
+[2024.04.05-07.40.08:174][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_47"
+[2024.04.05-07.40.08:174][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_49"
+[2024.04.05-07.40.08:174][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_50"
+[2024.04.05-07.40.08:175][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_52"
+[2024.04.05-07.40.08:175][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_53"
+[2024.04.05-07.40.08:176][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_55"
+[2024.04.05-07.40.08:176][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_56"
+[2024.04.05-07.40.08:176][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_58"
+[2024.04.05-07.40.08:176][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_59"
+[2024.04.05-07.40.08:180][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_61"
+[2024.04.05-07.40.08:180][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_62"
+[2024.04.05-07.40.08:180][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_64"
+[2024.04.05-07.40.08:180][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_65"
+[2024.04.05-07.40.08:181][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_67"
+[2024.04.05-07.40.08:181][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_68"
+[2024.04.05-07.40.08:181][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_70"
+[2024.04.05-07.40.08:181][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_71"
+[2024.04.05-07.40.08:184][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_73"
+[2024.04.05-07.40.08:184][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_74"
+[2024.04.05-07.40.08:184][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_76"
+[2024.04.05-07.40.08:184][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_77"
+[2024.04.05-07.40.08:184][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_79"
+[2024.04.05-07.40.08:184][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_80"
+[2024.04.05-07.40.08:185][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_82"
+[2024.04.05-07.40.08:185][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_83"
+[2024.04.05-07.40.08:187][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_8"
+[2024.04.05-07.40.08:187][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_85"
+[2024.04.05-07.40.08:187][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_86"
+[2024.04.05-07.40.08:187][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_88"
+[2024.04.05-07.40.08:187][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_89"
+[2024.04.05-07.40.08:188][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_91"
+[2024.04.05-07.40.08:188][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_92"
+[2024.04.05-07.40.08:188][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_94"
+[2024.04.05-07.40.08:188][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_95"
+[2024.04.05-07.40.08:189][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_97"
+[2024.04.05-07.40.08:189][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_98"
+[2024.04.05-07.40.08:189][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_100"
+[2024.04.05-07.40.08:190][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_101"
+[2024.04.05-07.40.08:190][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_103"
+[2024.04.05-07.40.08:190][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_104"
+[2024.04.05-07.40.08:190][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_106"
+[2024.04.05-07.40.08:190][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_107"
+[2024.04.05-07.40.08:193][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_109"
+[2024.04.05-07.40.08:193][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_110"
+[2024.04.05-07.40.08:194][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_112"
+[2024.04.05-07.40.08:194][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_113"
+[2024.04.05-07.40.08:194][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_115"
+[2024.04.05-07.40.08:194][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_116"
+[2024.04.05-07.40.08:194][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_118"
+[2024.04.05-07.40.08:194][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_119"
+[2024.04.05-07.40.08:197][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_121"
+[2024.04.05-07.40.08:197][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_122"
+[2024.04.05-07.40.08:197][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_124"
+[2024.04.05-07.40.08:197][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_125"
+[2024.04.05-07.40.08:198][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_127"
+[2024.04.05-07.40.08:198][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_128"
+[2024.04.05-07.40.08:198][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_130"
+[2024.04.05-07.40.08:198][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_131"
+[2024.04.05-07.40.08:201][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_133"
+[2024.04.05-07.40.08:201][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_134"
+[2024.04.05-07.40.08:201][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_136"
+[2024.04.05-07.40.08:201][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_137"
+[2024.04.05-07.40.08:201][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_139"
+[2024.04.05-07.40.08:201][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_140"
+[2024.04.05-07.40.08:201][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_142"
+[2024.04.05-07.40.08:202][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_143"
+[2024.04.05-07.40.08:203][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_145"
+[2024.04.05-07.40.08:203][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_146"
+[2024.04.05-07.40.08:203][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_148"
+[2024.04.05-07.40.08:203][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_149"
+[2024.04.05-07.40.08:204][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_151"
+[2024.04.05-07.40.08:204][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_152"
+[2024.04.05-07.40.08:204][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_154"
+[2024.04.05-07.40.08:204][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_155"
+[2024.04.05-07.40.08:205][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_9"
+[2024.04.05-07.40.08:205][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_157"
+[2024.04.05-07.40.08:205][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_158"
+[2024.04.05-07.40.08:205][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_160"
+[2024.04.05-07.40.08:205][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_161"
+[2024.04.05-07.40.08:205][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_10"
+[2024.04.05-07.40.08:205][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_163"
+[2024.04.05-07.40.08:206][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_164"
+[2024.04.05-07.40.08:208][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_166"
+[2024.04.05-07.40.08:208][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_167"
+[2024.04.05-07.40.08:208][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_169"
+[2024.04.05-07.40.08:208][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_170"
+[2024.04.05-07.40.08:209][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_172"
+[2024.04.05-07.40.08:209][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_173"
+[2024.04.05-07.40.08:210][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_175"
+[2024.04.05-07.40.08:210][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_176"
+[2024.04.05-07.40.08:211][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_178"
+[2024.04.05-07.40.08:211][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_179"
+[2024.04.05-07.40.08:212][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_181"
+[2024.04.05-07.40.08:212][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_182"
+[2024.04.05-07.40.08:212][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_184"
+[2024.04.05-07.40.08:212][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_185"
+[2024.04.05-07.40.08:213][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_187"
+[2024.04.05-07.40.08:213][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_188"
+[2024.04.05-07.40.08:216][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_190"
+[2024.04.05-07.40.08:216][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_191"
+[2024.04.05-07.40.08:216][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_193"
+[2024.04.05-07.40.08:216][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_194"
+[2024.04.05-07.40.08:219][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_196"
+[2024.04.05-07.40.08:219][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_197"
+[2024.04.05-07.40.08:220][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_199"
+[2024.04.05-07.40.08:220][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_200"
+[2024.04.05-07.40.08:220][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_202"
+[2024.04.05-07.40.08:220][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_203"
+[2024.04.05-07.40.08:221][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_205"
+[2024.04.05-07.40.08:221][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_206"
+[2024.04.05-07.40.08:222][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_208"
+[2024.04.05-07.40.08:222][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_209"
+[2024.04.05-07.40.08:222][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_211"
+[2024.04.05-07.40.08:222][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_212"
+[2024.04.05-07.40.08:227][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_214"
+[2024.04.05-07.40.08:227][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_215"
+[2024.04.05-07.40.08:227][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_217"
+[2024.04.05-07.40.08:227][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_218"
+[2024.04.05-07.40.08:228][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_220"
+[2024.04.05-07.40.08:228][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_221"
+[2024.04.05-07.40.08:228][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_223"
+[2024.04.05-07.40.08:228][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_224"
+[2024.04.05-07.40.08:229][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_226"
+[2024.04.05-07.40.08:229][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_227"
+[2024.04.05-07.40.08:233][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_229"
+[2024.04.05-07.40.08:234][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_230"
+[2024.04.05-07.40.08:234][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_232"
+[2024.04.05-07.40.08:234][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_233"
+[2024.04.05-07.40.08:234][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_235"
+[2024.04.05-07.40.08:234][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_236"
+[2024.04.05-07.40.08:237][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_11"
+[2024.04.05-07.40.08:237][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_238"
+[2024.04.05-07.40.08:237][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_239"
+[2024.04.05-07.40.08:238][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_12"
+[2024.04.05-07.40.08:238][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_241"
+[2024.04.05-07.40.08:238][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_242"
+[2024.04.05-07.40.08:238][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_244"
+[2024.04.05-07.40.08:238][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_245"
+[2024.04.05-07.40.08:239][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_247"
+[2024.04.05-07.40.08:239][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_248"
+[2024.04.05-07.40.08:239][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_250"
+[2024.04.05-07.40.08:239][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_251"
+[2024.04.05-07.40.08:240][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_253"
+[2024.04.05-07.40.08:240][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_254"
+[2024.04.05-07.40.08:240][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_256"
+[2024.04.05-07.40.08:240][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_257"
+[2024.04.05-07.40.08:242][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_259"
+[2024.04.05-07.40.08:242][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_260"
+[2024.04.05-07.40.08:243][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_262"
+[2024.04.05-07.40.08:243][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_263"
+[2024.04.05-07.40.08:243][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_265"
+[2024.04.05-07.40.08:243][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_266"
+[2024.04.05-07.40.08:246][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_13"
+[2024.04.05-07.40.08:246][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_268"
+[2024.04.05-07.40.08:246][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_269"
+[2024.04.05-07.40.08:247][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_14"
+[2024.04.05-07.40.08:247][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_271"
+[2024.04.05-07.40.08:247][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_272"
+[2024.04.05-07.40.08:247][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_274"
+[2024.04.05-07.40.08:247][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_275"
+[2024.04.05-07.40.08:248][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_15"
+[2024.04.05-07.40.08:248][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_277"
+[2024.04.05-07.40.08:248][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_278"
+[2024.04.05-07.40.08:249][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_16"
+[2024.04.05-07.40.08:249][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_280"
+[2024.04.05-07.40.08:249][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_281"
+[2024.04.05-07.40.08:249][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_283"
+[2024.04.05-07.40.08:249][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_284"
+[2024.04.05-07.40.08:252][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_17"
+[2024.04.05-07.40.08:252][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_286"
+[2024.04.05-07.40.08:252][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_287"
+[2024.04.05-07.40.08:252][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_289"
+[2024.04.05-07.40.08:252][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_290"
+[2024.04.05-07.40.08:253][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_18"
+[2024.04.05-07.40.08:253][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_292"
+[2024.04.05-07.40.08:253][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_293"
+[2024.04.05-07.40.08:253][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_295"
+[2024.04.05-07.40.08:253][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_296"
+[2024.04.05-07.40.08:255][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_298"
+[2024.04.05-07.40.08:255][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_299"
+[2024.04.05-07.40.08:255][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_301"
+[2024.04.05-07.40.08:255][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_302"
+[2024.04.05-07.40.08:255][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_304"
+[2024.04.05-07.40.08:255][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_305"
+[2024.04.05-07.40.08:256][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_307"
+[2024.04.05-07.40.08:256][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_308"
+[2024.04.05-07.40.08:259][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_310"
+[2024.04.05-07.40.08:259][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_311"
+[2024.04.05-07.40.08:259][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_313"
+[2024.04.05-07.40.08:259][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_314"
+[2024.04.05-07.40.08:259][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_316"
+[2024.04.05-07.40.08:259][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_317"
+[2024.04.05-07.40.08:259][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_319"
+[2024.04.05-07.40.08:259][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_320"
+[2024.04.05-07.40.08:260][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_322"
+[2024.04.05-07.40.08:260][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_323"
+[2024.04.05-07.40.08:260][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_325"
+[2024.04.05-07.40.08:260][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_326"
+[2024.04.05-07.40.08:261][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_328"
+[2024.04.05-07.40.08:261][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_329"
+[2024.04.05-07.40.08:261][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_331"
+[2024.04.05-07.40.08:261][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_332"
+[2024.04.05-07.40.08:274][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_334"
+[2024.04.05-07.40.08:274][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_335"
+[2024.04.05-07.40.08:275][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_337"
+[2024.04.05-07.40.08:275][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_338"
+[2024.04.05-07.40.08:275][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_340"
+[2024.04.05-07.40.08:275][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_341"
+[2024.04.05-07.40.08:279][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_19"
+[2024.04.05-07.40.08:279][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_20"
+[2024.04.05-07.40.08:279][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_343"
+[2024.04.05-07.40.08:279][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_344"
+[2024.04.05-07.40.08:279][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_346"
+[2024.04.05-07.40.08:279][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_347"
+[2024.04.05-07.40.08:279][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_349"
+[2024.04.05-07.40.08:279][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_350"
+[2024.04.05-07.40.08:280][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_21"
+[2024.04.05-07.40.08:280][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_22"
+[2024.04.05-07.40.08:280][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_352"
+[2024.04.05-07.40.08:280][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_353"
+[2024.04.05-07.40.08:280][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_355"
+[2024.04.05-07.40.08:280][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_356"
+[2024.04.05-07.40.08:280][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_358"
+[2024.04.05-07.40.08:280][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_359"
+[2024.04.05-07.40.08:287][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_361"
+[2024.04.05-07.40.08:287][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_362"
+[2024.04.05-07.40.08:287][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_364"
+[2024.04.05-07.40.08:287][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_365"
+[2024.04.05-07.40.08:288][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_367"
+[2024.04.05-07.40.08:288][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_368"
+[2024.04.05-07.40.08:292][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_370"
+[2024.04.05-07.40.08:292][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_371"
+[2024.04.05-07.40.08:292][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_373"
+[2024.04.05-07.40.08:292][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_374"
+[2024.04.05-07.40.08:293][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_376"
+[2024.04.05-07.40.08:293][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_377"
+[2024.04.05-07.40.08:293][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_379"
+[2024.04.05-07.40.08:293][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_380"
+[2024.04.05-07.40.08:331][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_382"
+[2024.04.05-07.40.08:331][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_383"
+[2024.04.05-07.40.08:331][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_385"
+[2024.04.05-07.40.08:331][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_386"
+[2024.04.05-07.40.08:331][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_388"
+[2024.04.05-07.40.08:331][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_389"
+[2024.04.05-07.40.08:332][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_23"
+[2024.04.05-07.40.08:332][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_391"
+[2024.04.05-07.40.08:332][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_392"
+[2024.04.05-07.40.08:333][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_394"
+[2024.04.05-07.40.08:333][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_395"
+[2024.04.05-07.40.08:333][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_24"
+[2024.04.05-07.40.08:333][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_397"
+[2024.04.05-07.40.08:333][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_398"
+[2024.04.05-07.40.08:335][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_25"
+[2024.04.05-07.40.08:335][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_400"
+[2024.04.05-07.40.08:335][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_401"
+[2024.04.05-07.40.08:335][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_403"
+[2024.04.05-07.40.08:335][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_404"
+[2024.04.05-07.40.08:336][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_26"
+[2024.04.05-07.40.08:336][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_406"
+[2024.04.05-07.40.08:336][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_407"
+[2024.04.05-07.40.08:337][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_27"
+[2024.04.05-07.40.08:337][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_409"
+[2024.04.05-07.40.08:337][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_410"
+[2024.04.05-07.40.08:338][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_28"
+[2024.04.05-07.40.08:338][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_412"
+[2024.04.05-07.40.08:338][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_413"
+[2024.04.05-07.40.08:338][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_415"
+[2024.04.05-07.40.08:338][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_416"
+[2024.04.05-07.40.08:339][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_418"
+[2024.04.05-07.40.08:339][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_419"
+[2024.04.05-07.40.08:339][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_421"
+[2024.04.05-07.40.08:339][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_422"
+[2024.04.05-07.40.08:340][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_424"
+[2024.04.05-07.40.08:340][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_425"
+[2024.04.05-07.40.08:340][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_427"
+[2024.04.05-07.40.08:340][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_428"
+[2024.04.05-07.40.08:341][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_430"
+[2024.04.05-07.40.08:341][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_431"
+[2024.04.05-07.40.08:342][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_433"
+[2024.04.05-07.40.08:342][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_434"
+[2024.04.05-07.40.08:343][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_29"
+[2024.04.05-07.40.08:343][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_436"
+[2024.04.05-07.40.08:344][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_437"
+[2024.04.05-07.40.08:344][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_439"
+[2024.04.05-07.40.08:344][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_440"
+[2024.04.05-07.40.08:344][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_30"
+[2024.04.05-07.40.08:345][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_442"
+[2024.04.05-07.40.08:345][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_443"
+[2024.04.05-07.40.08:346][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_31"
+[2024.04.05-07.40.08:346][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_32"
+[2024.04.05-07.40.08:346][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_445"
+[2024.04.05-07.40.08:346][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_446"
+[2024.04.05-07.40.08:346][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_448"
+[2024.04.05-07.40.08:346][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_449"
+[2024.04.05-07.40.08:346][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_451"
+[2024.04.05-07.40.08:346][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_452"
+[2024.04.05-07.40.08:347][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_33"
+[2024.04.05-07.40.08:347][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_34"
+[2024.04.05-07.40.08:347][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_454"
+[2024.04.05-07.40.08:347][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_455"
+[2024.04.05-07.40.08:348][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_457"
+[2024.04.05-07.40.08:348][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_458"
+[2024.04.05-07.40.08:348][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_460"
+[2024.04.05-07.40.08:348][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_461"
+[2024.04.05-07.40.08:348][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_463"
+[2024.04.05-07.40.08:348][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_464"
+[2024.04.05-07.40.08:349][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_466"
+[2024.04.05-07.40.08:349][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_467"
+[2024.04.05-07.40.08:349][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_469"
+[2024.04.05-07.40.08:349][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_470"
+[2024.04.05-07.40.08:350][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_472"
+[2024.04.05-07.40.08:350][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_473"
+[2024.04.05-07.40.08:350][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_475"
+[2024.04.05-07.40.08:350][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_476"
+[2024.04.05-07.40.08:351][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_478"
+[2024.04.05-07.40.08:351][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_479"
+[2024.04.05-07.40.08:351][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_481"
+[2024.04.05-07.40.08:351][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_482"
+[2024.04.05-07.40.08:353][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_484"
+[2024.04.05-07.40.08:353][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_485"
+[2024.04.05-07.40.08:353][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_487"
+[2024.04.05-07.40.08:353][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_488"
+[2024.04.05-07.40.08:354][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_35"
+[2024.04.05-07.40.08:355][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_490"
+[2024.04.05-07.40.08:355][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_491"
+[2024.04.05-07.40.08:355][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_493"
+[2024.04.05-07.40.08:355][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_494"
+[2024.04.05-07.40.08:355][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_36"
+[2024.04.05-07.40.08:355][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_496"
+[2024.04.05-07.40.08:356][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_497"
+[2024.04.05-07.40.08:356][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_499"
+[2024.04.05-07.40.08:356][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_500"
+[2024.04.05-07.40.08:357][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_502"
+[2024.04.05-07.40.08:357][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_503"
+[2024.04.05-07.40.08:357][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_505"
+[2024.04.05-07.40.08:357][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_506"
+[2024.04.05-07.40.08:359][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_508"
+[2024.04.05-07.40.08:359][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_509"
+[2024.04.05-07.40.08:359][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_511"
+[2024.04.05-07.40.08:359][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_512"
+[2024.04.05-07.40.08:359][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_514"
+[2024.04.05-07.40.08:360][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_515"
+[2024.04.05-07.40.08:360][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_517"
+[2024.04.05-07.40.08:360][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_518"
+[2024.04.05-07.40.08:361][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_520"
+[2024.04.05-07.40.08:361][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_521"
+[2024.04.05-07.40.08:361][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_523"
+[2024.04.05-07.40.08:361][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_524"
+[2024.04.05-07.40.08:361][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_526"
+[2024.04.05-07.40.08:361][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_527"
+[2024.04.05-07.40.08:362][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_529"
+[2024.04.05-07.40.08:362][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_530"
+[2024.04.05-07.40.08:362][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_532"
+[2024.04.05-07.40.08:362][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_533"
+[2024.04.05-07.40.08:363][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_535"
+[2024.04.05-07.40.08:363][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_536"
+[2024.04.05-07.40.08:363][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_538"
+[2024.04.05-07.40.08:363][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_539"
+[2024.04.05-07.40.08:364][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_37"
+[2024.04.05-07.40.08:364][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_541"
+[2024.04.05-07.40.08:364][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_542"
+[2024.04.05-07.40.08:365][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_38"
+[2024.04.05-07.40.08:365][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_544"
+[2024.04.05-07.40.08:365][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_545"
+[2024.04.05-07.40.08:365][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_547"
+[2024.04.05-07.40.08:365][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_548"
+[2024.04.05-07.40.08:366][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_39"
+[2024.04.05-07.40.08:366][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_40"
+[2024.04.05-07.40.08:366][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_550"
+[2024.04.05-07.40.08:366][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_551"
+[2024.04.05-07.40.08:366][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_553"
+[2024.04.05-07.40.08:366][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_554"
+[2024.04.05-07.40.08:367][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_41"
+[2024.04.05-07.40.08:367][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_42"
+[2024.04.05-07.40.08:367][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_556"
+[2024.04.05-07.40.08:367][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_557"
+[2024.04.05-07.40.08:368][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_43"
+[2024.04.05-07.40.08:368][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_559"
+[2024.04.05-07.40.08:368][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_560"
+[2024.04.05-07.40.08:369][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_44"
+[2024.04.05-07.40.08:369][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_562"
+[2024.04.05-07.40.08:369][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_563"
+[2024.04.05-07.40.08:370][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_565"
+[2024.04.05-07.40.08:370][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_566"
+[2024.04.05-07.40.08:370][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_568"
+[2024.04.05-07.40.08:370][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_569"
+[2024.04.05-07.40.08:371][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_571"
+[2024.04.05-07.40.08:371][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_572"
+[2024.04.05-07.40.08:371][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_574"
+[2024.04.05-07.40.08:371][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_575"
+[2024.04.05-07.40.08:372][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_577"
+[2024.04.05-07.40.08:372][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_578"
+[2024.04.05-07.40.08:372][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_580"
+[2024.04.05-07.40.08:372][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_581"
+[2024.04.05-07.40.08:373][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_583"
+[2024.04.05-07.40.08:373][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_584"
+[2024.04.05-07.40.08:374][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_586"
+[2024.04.05-07.40.08:374][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_587"
+[2024.04.05-07.40.08:374][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_589"
+[2024.04.05-07.40.08:374][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_590"
+[2024.04.05-07.40.08:375][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_592"
+[2024.04.05-07.40.08:375][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_593"
+[2024.04.05-07.40.08:375][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_595"
+[2024.04.05-07.40.08:375][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_596"
+[2024.04.05-07.40.08:376][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_45"
+[2024.04.05-07.40.08:376][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_46"
+[2024.04.05-07.40.08:376][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_598"
+[2024.04.05-07.40.08:376][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_599"
+[2024.04.05-07.40.08:376][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_601"
+[2024.04.05-07.40.08:376][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_602"
+[2024.04.05-07.40.08:376][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_604"
+[2024.04.05-07.40.08:376][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_605"
+[2024.04.05-07.40.08:377][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_47"
+[2024.04.05-07.40.08:377][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_48"
+[2024.04.05-07.40.08:377][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_607"
+[2024.04.05-07.40.08:377][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_608"
+[2024.04.05-07.40.08:377][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_610"
+[2024.04.05-07.40.08:377][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_611"
+[2024.04.05-07.40.08:377][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_613"
+[2024.04.05-07.40.08:377][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_614"
+[2024.04.05-07.40.08:378][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_616"
+[2024.04.05-07.40.08:378][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_617"
+[2024.04.05-07.40.08:379][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_619"
+[2024.04.05-07.40.08:379][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_620"
+[2024.04.05-07.40.08:379][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_622"
+[2024.04.05-07.40.08:379][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_623"
+[2024.04.05-07.40.08:380][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_625"
+[2024.04.05-07.40.08:380][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_626"
+[2024.04.05-07.40.08:380][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_628"
+[2024.04.05-07.40.08:380][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_629"
+[2024.04.05-07.40.08:381][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_631"
+[2024.04.05-07.40.08:381][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_632"
+[2024.04.05-07.40.08:381][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_634"
+[2024.04.05-07.40.08:381][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_635"
+[2024.04.05-07.40.08:382][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_637"
+[2024.04.05-07.40.08:382][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_638"
+[2024.04.05-07.40.08:382][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_640"
+[2024.04.05-07.40.08:382][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_641"
+[2024.04.05-07.40.08:383][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_643"
+[2024.04.05-07.40.08:383][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_644"
+[2024.04.05-07.40.08:383][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_646"
+[2024.04.05-07.40.08:383][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_647"
+[2024.04.05-07.40.08:384][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_649"
+[2024.04.05-07.40.08:384][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_650"
+[2024.04.05-07.40.08:384][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_652"
+[2024.04.05-07.40.08:384][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_653"
+[2024.04.05-07.40.08:385][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_655"
+[2024.04.05-07.40.08:385][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_656"
+[2024.04.05-07.40.08:386][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_658"
+[2024.04.05-07.40.08:386][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_659"
+[2024.04.05-07.40.08:386][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_661"
+[2024.04.05-07.40.08:386][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_662"
+[2024.04.05-07.40.08:387][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_49"
+[2024.04.05-07.40.08:387][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_664"
+[2024.04.05-07.40.08:387][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_665"
+[2024.04.05-07.40.08:388][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_50"
+[2024.04.05-07.40.08:388][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_667"
+[2024.04.05-07.40.08:388][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_668"
+[2024.04.05-07.40.08:388][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_670"
+[2024.04.05-07.40.08:388][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_671"
+[2024.04.05-07.40.08:389][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_673"
+[2024.04.05-07.40.08:389][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_674"
+[2024.04.05-07.40.08:389][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_676"
+[2024.04.05-07.40.08:389][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_677"
+[2024.04.05-07.40.08:391][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_51"
+[2024.04.05-07.40.08:391][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_679"
+[2024.04.05-07.40.08:391][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_680"
+[2024.04.05-07.40.08:391][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_682"
+[2024.04.05-07.40.08:391][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_683"
+[2024.04.05-07.40.08:392][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_52"
+[2024.04.05-07.40.08:392][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_685"
+[2024.04.05-07.40.08:392][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_686"
+[2024.04.05-07.40.08:393][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_688"
+[2024.04.05-07.40.08:393][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_689"
+[2024.04.05-07.40.08:393][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_691"
+[2024.04.05-07.40.08:393][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_692"
+[2024.04.05-07.40.08:394][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_694"
+[2024.04.05-07.40.08:394][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_695"
+[2024.04.05-07.40.08:394][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_697"
+[2024.04.05-07.40.08:394][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_698"
+[2024.04.05-07.40.08:397][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_700"
+[2024.04.05-07.40.08:397][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_701"
+[2024.04.05-07.40.08:397][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_703"
+[2024.04.05-07.40.08:397][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_704"
+[2024.04.05-07.40.08:398][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_706"
+[2024.04.05-07.40.08:398][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_707"
+[2024.04.05-07.40.08:399][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_709"
+[2024.04.05-07.40.08:399][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_710"
+[2024.04.05-07.40.08:399][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_712"
+[2024.04.05-07.40.08:399][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_713"
+[2024.04.05-07.40.08:400][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_715"
+[2024.04.05-07.40.08:400][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_716"
+[2024.04.05-07.40.08:400][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_718"
+[2024.04.05-07.40.08:400][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_719"
+[2024.04.05-07.40.08:401][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_721"
+[2024.04.05-07.40.08:401][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_722"
+[2024.04.05-07.40.08:402][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_724"
+[2024.04.05-07.40.08:402][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_725"
+[2024.04.05-07.40.08:402][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_727"
+[2024.04.05-07.40.08:402][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_728"
+[2024.04.05-07.40.08:403][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_730"
+[2024.04.05-07.40.08:403][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_731"
+[2024.04.05-07.40.08:403][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_733"
+[2024.04.05-07.40.08:403][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_734"
+[2024.04.05-07.40.08:404][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_736"
+[2024.04.05-07.40.08:404][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_737"
+[2024.04.05-07.40.08:407][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_739"
+[2024.04.05-07.40.08:407][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_740"
+[2024.04.05-07.40.08:407][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_742"
+[2024.04.05-07.40.08:407][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_743"
+[2024.04.05-07.40.08:408][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_745"
+[2024.04.05-07.40.08:408][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_746"
+[2024.04.05-07.40.08:408][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_748"
+[2024.04.05-07.40.08:409][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_749"
+[2024.04.05-07.40.08:410][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_53"
+[2024.04.05-07.40.08:410][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_54"
+[2024.04.05-07.40.08:410][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_751"
+[2024.04.05-07.40.08:410][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_752"
+[2024.04.05-07.40.08:410][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_754"
+[2024.04.05-07.40.08:410][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_755"
+[2024.04.05-07.40.08:412][487]LogDatasmithC4DImport: Error: Could not import the object "X._m_56"
+[2024.04.05-07.40.08:412][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_757"
+[2024.04.05-07.40.08:412][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_758"
+[2024.04.05-07.40.08:417][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_763"
+[2024.04.05-07.40.08:417][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_764"
+[2024.04.05-07.40.08:417][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_766"
+[2024.04.05-07.40.08:417][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_767"
+[2024.04.05-07.40.08:418][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_769"
+[2024.04.05-07.40.08:418][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_770"
+[2024.04.05-07.40.08:426][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_775"
+[2024.04.05-07.40.08:426][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_776"
+[2024.04.05-07.40.08:427][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_778"
+[2024.04.05-07.40.08:427][487]LogDatasmithC4DImport: Error: Could not import the object "Tree.PlantFinal._m_779"
+[2024.04.05-07.40.08:437][487]LogDatasmithC4DImport: Error: Could not import the object "__"
+[2024.04.05-07.40.08:467][487]LogDatasmithC4DImport: Error: Could not import the object "___"
+[2024.04.05-07.40.08:486][487]LogDatasmithC4DImport: Error: Could not import the object "__-1"
+[2024.04.05-07.40.08:563][487]LogSlate: Took 0.000847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.05-07.40.34:869][487]LogMaterial: Display: Missing cached shadermap for Road_Bed_Sidewalk_1_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1B9A78A51AF2269DEFA2FCFDC61CD77065332CF9), compiling. 
+[2024.04.05-07.41.07:885][487]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11UniformBuffer.cpp:150 
+ with error E_OUTOFMEMORY
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     62 = 4690 KB (2D 1072x560 PF_FloatRGBA UAV) TemporalAA
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     26 = 2932 KB (2D 1072x560 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     29 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     31 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     33 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     30 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     32 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     34 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     27 = 1466 KB (2D 536x280 PF_DepthStencil) SmallDepthZ
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     35 = 1173 KB (2D 1072x280 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     81 = 1024 KB (Cube[1] 128 PF_FloatRGBA) ReflectionEnvs
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     28 = 587 KB (2D 1072x560 PF_G8 RT UAV) ScreenSpaceAO
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     53 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     44 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     22 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     19 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     23 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2024.04.05-07.41.20:820][487]LogConsoleResponse:     20 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     24 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     25 = 8 KB (3D 16x16x16 PF_R16F) GTAOPreIntegrated
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     83 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     82 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     52 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     21 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     18 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) HairLUT0
+[2024.04.05-07.41.20:821][487]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2024.04.05-07.41.20:821][487]LogConsoleResponse: 
+[2024.04.05-07.41.20:821][487]LogConsoleResponse: Pool: 25/25 MB (referenced/allocated)
+[2024.04.05-07.41.20:823][487]Cmd: rhi.DumpMemory
+[2024.04.05-07.41.20:856][487]RHI resource memory (not tracked by our allocator)
+[2024.04.05-07.41.20:856][487]               0  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]        19798276  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]       810986740  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]       354700514  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]        14498080  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]        35192940  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]          704588  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]       181361706  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]               0  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]        14865662  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]       192359477  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2024.04.05-07.41.20:856][487]1549.213MB total
+[2024.04.05-07.41.20:858][487]LogWindows: FPlatformMisc::RequestExit(1)
+[2024.04.05-07.41.20:858][487]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0)
+[2024.04.05-07.41.20:858][487]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.04.05-07.41.20:873][487]Log file closed, 04/05/24 15:41:20
